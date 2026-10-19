@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+jsonschema
+pillow
+imageio
+imageio-ffmpeg
+pytest
